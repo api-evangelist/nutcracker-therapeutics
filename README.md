@@ -42,5 +42,8 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Nutcracker Therapeutics is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
+Nutcracker Therapeutics was an RNA therapeutics company founded in 2018 and headquartered in Emeryville, California, operating as a contract research, development and manufacturing organization (CRDMO) for RNA-based medicines. Its ACORN platform compressed RNA drug manufacturing onto single-use microfluidic biochips, and its NMU-Symphony system targeted on-demand, individualized production of personalized RNA therapeutics. The company raised more than $200 million across Series A through C rounds led by ARCH Venture Partners and others. Its business was laboratory instrumentation and GMP biomanufacturing services, not software, and it never published a developer program, public API, SDK or machine-readable specification. In December 2025 the company was acquired by Medici Therapeutics, the oncology platform formed by ARCH Venture Partners and the Parker Institute for Cancer Immunotherapy. Its corporate site at nutcrackerx.com went dark shortly afterwards and now returns a shared hosting placeholder.
+
+**Coverage:** no API surface — defunct / absorbed into an acquirer (checked 2026-08-04).
+
 - https://forgeglobal.com/nutcracker-therapeutics_stock/
