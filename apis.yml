@@ -12,6 +12,10 @@ description: 'Nutcracker Therapeutics was an RNA therapeutics company founded in
   Its corporate site at nutcrackerx.com went dark shortly afterwards and now returns a shared hosting
   placeholder.'
 url: https://raw.githubusercontent.com/api-evangelist/nutcracker-therapeutics/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Its business was laboratory instrumentation and GMP biomanufacturing services, not software, and it never published a developer program, public API, SDK or machine-readable specification."
+x-harvest-source-url: https://forgeglobal.com/nutcracker-therapeutics_stock/
 x-type: company
 x-source: harvest:secondary-market
 x-tier: stub
@@ -45,8 +49,6 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
-- type: Website
-  url: https://forgeglobal.com/nutcracker-therapeutics_stock/
 x-enrichment:
   date: '2026-08-04'
   status: nochange
