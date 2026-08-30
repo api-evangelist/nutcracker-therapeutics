@@ -48,7 +48,6 @@ maintainers:
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-common:
 x-enrichment:
   date: '2026-08-04'
   status: nochange
